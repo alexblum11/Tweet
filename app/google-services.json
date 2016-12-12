@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1009732457394",
+    "firebase_url": "https://tweet-17699.firebaseio.com",
+    "project_id": "tweet-17699",
+    "storage_bucket": "tweet-17699.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009732457394:android:836ee5b1192e1d1d",
+        "android_client_info": {
+          "package_name": "com.example.alexblum.tweet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009732457394-mtk42fcnu5vb6gcbmin1ju0b3duvf4tq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alexblum.tweet",
+            "certificate_hash": "64E29C933DCE1CBD40F8C8F6254104A1569FA0B6"
+          }
+        },
+        {
+          "client_id": "1009732457394-6bnoj7jabt9f8rcjc1emems2aam3kclv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcHoGmlSGJwcOnX-u228x1aODEkQtXxX8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009732457394-6bnoj7jabt9f8rcjc1emems2aam3kclv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
